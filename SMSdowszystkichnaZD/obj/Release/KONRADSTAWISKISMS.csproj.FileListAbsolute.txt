@@ -1,0 +1,10 @@
+C:\!CHMURA\IT\ANDROID\SMSdowszystkichnaZD\SMSdowszystkichnaZD\bin\Release\KONRADSTAWISKISMS.dll
+C:\!CHMURA\IT\ANDROID\SMSdowszystkichnaZD\SMSdowszystkichnaZD\bin\Release\SMSdowszystkichnaZD.SMSdowszystkichnaZD.apk
+C:\!CHMURA\IT\ANDROID\SMSdowszystkichnaZD\SMSdowszystkichnaZD\bin\Release\SMSdowszystkichnaZD.SMSdowszystkichnaZD-Signed.apk
+C:\!CHMURA\IT\ANDROID\SMSdowszystkichnaZD\SMSdowszystkichnaZD\obj\Release\KONRADSTAWISKISMS.dll
+C:\!CHMURA\IT\ANDROID\SMSdowszystkichnaZD\SMSdowszystkichnaZD\obj\Release\android\bin\SMSdowszystkichnaZD.SMSdowszystkichnaZD.apk
+C:\!CHMURA\IT\ANDROID\SMSdowszystkichnaZD\SMSdowszystkichnaZD\obj\Release\res\layout\main.xml
+C:\!CHMURA\IT\ANDROID\SMSdowszystkichnaZD\SMSdowszystkichnaZD\obj\Release\res\values\strings.xml
+C:\!CHMURA\IT\ANDROID\SMSdowszystkichnaZD\SMSdowszystkichnaZD\obj\Release\res\drawable\icon.png
+C:\!CHMURA\IT\ANDROID\SMSdowszystkichnaZD\SMSdowszystkichnaZD\obj\Release\R.cs.flag
+C:\!CHMURA\IT\ANDROID\SMSdowszystkichnaZD\SMSdowszystkichnaZD\obj\Release\uploadflags.txt

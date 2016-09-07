@@ -1,0 +1,2 @@
+C:\!CHMURA\IT\ANDROID\SMSdowszystkichnaZD\SMSdowszystkichnaZD\obj\Release\KONRADSTAWISKI-SMS.csprojResolveAssemblyReference.cache
+C:\!CHMURA\IT\ANDROID\SMSdowszystkichnaZD\SMSdowszystkichnaZD\obj\Release\SMSdowszystkichnaZD.dll

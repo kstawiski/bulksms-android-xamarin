@@ -1,0 +1,4 @@
+KONRADSTAWISKISMS.MainActivity, KONRADSTAWISKISMS;md549d3bfbdcec55fd99528be5e13a9fb47.MainActivity
+KONRADSTAWISKISMS.MainActivity, KONRADSTAWISKISMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md549d3bfbdcec55fd99528be5e13a9fb47.MainActivity
+KONRADSTAWISKISMS.MainActivity;md549d3bfbdcec55fd99528be5e13a9fb47.MainActivity
+konradstawiskisms.MainActivity;md549d3bfbdcec55fd99528be5e13a9fb47.MainActivity

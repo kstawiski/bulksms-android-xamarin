@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="SMSdowszystkichnaZD\KONRADSTAWISKISMS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Android.MonoForAndroid_API_10" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SMSdowszystkichnaZD\MainActivity.cs">
+    <Files>
+      <File FileName="SMSdowszystkichnaZD\MainActivity.cs" Line="31" Column="4" />
+      <File FileName="..\..\..\..\Program Files (x86)\MSBuild\Xamarin\Android\Xamarin.Android.Common.targets" Line="1" Column="1" />
+      <File FileName="SMSdowszystkichnaZD\Resources\Resource.designer.cs" Line="12" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <AuthorInfo Name="Konrad Stawiski" Email="konrad@konsta.com.pl" Copyright="Konrad Stawiski" Company="KONSTA.COM.PL" Trademark="KONSTA.COM.PL" />
+  <MonoDevelop.Ide.ItemProperties.KONRADSTAWISKISMS MonoForAntroid.PreferredDevice="3.7&quot; WVGA (Nexus One)" AndroidDeviceId-Debug="emulator-5556" AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

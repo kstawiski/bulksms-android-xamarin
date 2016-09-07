@@ -1,0 +1,13 @@
+D:\!CHMURA\IT\ANDROID\SMSdowszystkichnaZD\SMSdowszystkichnaZD\bin\Debug\SMSdowszystkichnaZD.dll
+D:\!CHMURA\IT\ANDROID\SMSdowszystkichnaZD\SMSdowszystkichnaZD\bin\Debug\SMSdowszystkichnaZD.pdb
+D:\!CHMURA\IT\ANDROID\SMSdowszystkichnaZD\SMSdowszystkichnaZD\bin\Debug\SMSdowszystkichnaZD.dll.mdb
+D:\!CHMURA\IT\ANDROID\SMSdowszystkichnaZD\SMSdowszystkichnaZD\bin\Debug\SMSdowszystkichnaZD.SMSdowszystkichnaZD.apk
+D:\!CHMURA\IT\ANDROID\SMSdowszystkichnaZD\SMSdowszystkichnaZD\bin\Debug\SMSdowszystkichnaZD.SMSdowszystkichnaZD-Signed.apk
+D:\!CHMURA\IT\ANDROID\SMSdowszystkichnaZD\SMSdowszystkichnaZD\obj\Debug\SMSdowszystkichnaZD.dll
+D:\!CHMURA\IT\ANDROID\SMSdowszystkichnaZD\SMSdowszystkichnaZD\obj\Debug\SMSdowszystkichnaZD.pdb
+D:\!CHMURA\IT\ANDROID\SMSdowszystkichnaZD\SMSdowszystkichnaZD\obj\Debug\android\bin\SMSdowszystkichnaZD.SMSdowszystkichnaZD.apk
+D:\!CHMURA\IT\ANDROID\SMSdowszystkichnaZD\SMSdowszystkichnaZD\obj\Debug\res\layout\main.xml
+D:\!CHMURA\IT\ANDROID\SMSdowszystkichnaZD\SMSdowszystkichnaZD\obj\Debug\res\values\strings.xml
+D:\!CHMURA\IT\ANDROID\SMSdowszystkichnaZD\SMSdowszystkichnaZD\obj\Debug\res\drawable\icon.png
+D:\!CHMURA\IT\ANDROID\SMSdowszystkichnaZD\SMSdowszystkichnaZD\obj\Debug\R.cs.flag
+D:\!CHMURA\IT\ANDROID\SMSdowszystkichnaZD\SMSdowszystkichnaZD\obj\Debug\uploadflags.txt

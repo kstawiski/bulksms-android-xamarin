@@ -1,0 +1,13 @@
+C:\Users\Konrad\Documents\Projects\SMSdowszystkichnaZD\SMSdowszystkichnaZD\bin\Debug\SMSdowszystkichnaZD.dll
+C:\Users\Konrad\Documents\Projects\SMSdowszystkichnaZD\SMSdowszystkichnaZD\bin\Debug\SMSdowszystkichnaZD.pdb
+C:\Users\Konrad\Documents\Projects\SMSdowszystkichnaZD\SMSdowszystkichnaZD\bin\Debug\SMSdowszystkichnaZD.dll.mdb
+C:\Users\Konrad\Documents\Projects\SMSdowszystkichnaZD\SMSdowszystkichnaZD\bin\Debug\SMSdowszystkichnaZD.SMSdowszystkichnaZD.apk
+C:\Users\Konrad\Documents\Projects\SMSdowszystkichnaZD\SMSdowszystkichnaZD\bin\Debug\SMSdowszystkichnaZD.SMSdowszystkichnaZD-Signed.apk
+C:\Users\Konrad\Documents\Projects\SMSdowszystkichnaZD\SMSdowszystkichnaZD\obj\Debug\SMSdowszystkichnaZD.dll
+C:\Users\Konrad\Documents\Projects\SMSdowszystkichnaZD\SMSdowszystkichnaZD\obj\Debug\SMSdowszystkichnaZD.pdb
+C:\Users\Konrad\Documents\Projects\SMSdowszystkichnaZD\SMSdowszystkichnaZD\obj\Debug\android\bin\SMSdowszystkichnaZD.SMSdowszystkichnaZD.apk
+C:\Users\Konrad\Documents\Projects\SMSdowszystkichnaZD\SMSdowszystkichnaZD\obj\Debug\res\layout\main.xml
+C:\Users\Konrad\Documents\Projects\SMSdowszystkichnaZD\SMSdowszystkichnaZD\obj\Debug\res\values\strings.xml
+C:\Users\Konrad\Documents\Projects\SMSdowszystkichnaZD\SMSdowszystkichnaZD\obj\Debug\res\drawable\icon.png
+C:\Users\Konrad\Documents\Projects\SMSdowszystkichnaZD\SMSdowszystkichnaZD\obj\Debug\R.cs.flag
+C:\Users\Konrad\Documents\Projects\SMSdowszystkichnaZD\SMSdowszystkichnaZD\obj\Debug\uploadflags.txt
